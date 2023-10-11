@@ -1,0 +1,166 @@
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:16:20.111 ServerManager:17 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:17:39.469 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.076 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.097 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.124 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.125 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.131 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.132 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.134 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:09.142 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:34.468 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:44.042 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:54.416 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:18:58.508 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:19:04.592 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:19:10.927 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:19:12.176 MyRunnerTest:54 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 16:19:12.291 MyRunnerTest:59 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:43:56.756 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.496 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.521 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.549 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.551 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.557 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.559 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.561 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:13.571 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:34.792 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:42.537 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:52.677 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:44:56.146 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:45:02.131 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:45:06.927 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:45:07.489 MyRunnerTest:54 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:45:07.543 MyRunnerTest:59 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:28.155 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.064 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.081 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.100 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.102 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.103 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.105 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.108 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:56:45.115 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:06.826 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:15.363 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:25.275 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:28.820 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:34.455 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:39.217 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:39.804 MyRunnerTest:54 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 21:57:39.862 MyRunnerTest:59 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:10:09.320 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:29.405 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.276 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.293 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.320 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.322 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.328 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.333 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.336 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:17:46.346 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:07.598 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:15.940 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:25.549 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:29.440 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:34.874 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:39.474 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:40.025 MyRunnerTest:54 - Driver Quit!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:18:40.084 MyRunnerTest:59 - Appium Server Stopped!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:25.903 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:44.965 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:44.984 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:45.004 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:45.007 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:45.010 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:45.011 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:45.013 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:36:45.020 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:37.371 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.069 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.084 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.101 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.103 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.105 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.107 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.109 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:39:54.115 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:40:51.349 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.549 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.565 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.581 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.583 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.585 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.587 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.589 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:41:09.595 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:45:52.990 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.080 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.101 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.128 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.129 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.131 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.132 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.134 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:11.139 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:32.638 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:41.290 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:51.174 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:54.037 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:46:59.738 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:47:04.527 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:38.115 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.181 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.197 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.214 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.216 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.218 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.220 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.221 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:48:56.228 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:49:18.574 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:49:26.981 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:49:36.905 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:49:39.612 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:49:45.252 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:49:50.496 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:40.707 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.925 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.948 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.967 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.969 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.971 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.974 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.975 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:53:57.983 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:54:19.104 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:54:28.884 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:54:38.454 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:54:41.914 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:54:47.467 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 22:54:52.226 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:30.334 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.147 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.164 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.181 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.183 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.184 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.186 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.187 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:08:48.192 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:00.202 ServerManager:18 - Starting Appium Server!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.395 ServerManager:28 - Appium Server Started!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.416 DriverManager:24 - initializing Appium driver
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.434 CapabilitiesManager:17 - Getting Capabilities
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.436 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.438 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.440 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.442 PropertyManager:15 - Loading Config Files
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:17.447 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:38.961 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid username.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:48.653 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with Invalid password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:10:58.686 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Login with valid username and password.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:11:02.520 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify the product information in Products page.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:11:08.100 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Verify product detailed information.mp4
+[Android_Samsung Galaxy S8+ INFO ] 2023-10-09 23:11:13.029 VideoManager:31 - Videopath:Android_Samsung Galaxy S8+\Videos\Scroll down and check the price.mp4

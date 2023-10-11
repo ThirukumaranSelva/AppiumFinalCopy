@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2033738f-e74a-4f88-8e86-5f01d39ba808" name="Changes" comment="Code 6th Oct" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WNuMd9f2BgOMiLmvWzmfoX0pA3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Learning/AppiumFramework",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Learning\BDDFramework\src\main\resources" />
+      <recent name="C:\Learning\BDDFramework\src\test\resources\apps" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qa.runners" />
+      <recent name="com.qa.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Learning/BDDFramework-master_Copy/testng.xml">
+    <configuration name="MyRunnerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework-master_Copy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseRunnerTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework-master_Copy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.BaseRunnerTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Learning/BDDFramework-master_Copy/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework-master_Copy" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRunnerTestNGTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="BDDFramework-master_Copy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.runners.MyRunnerTestNGTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MyRunnerTest" />
+      <item itemvalue="JUnit.MyRunnerTest (1)" />
+      <item itemvalue="TestNG.BaseRunnerTest" />
+      <item itemvalue="TestNG.C:/Learning/BDDFramework-master_Copy/testng.xml" />
+      <item itemvalue="TestNG.MyRunnerTestNGTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Learning/BDDFramework-master_Copy/testng.xml" />
+        <item itemvalue="TestNG.BaseRunnerTest" />
+        <item itemvalue="TestNG.MyRunnerTestNGTest" />
+        <item itemvalue="JUnit.MyRunnerTest (1)" />
+        <item itemvalue="JUnit.MyRunnerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2033738f-e74a-4f88-8e86-5f01d39ba808" name="Changes" comment="" />
+      <created>1696585313492</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696585313492</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Code 6th Oct">
+      <created>1696602360166</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696602360166</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Code 6th Oct">
+      <created>1696602379546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696602379547</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Code 6th Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code 6th Oct" />
+  </component>
+</project>

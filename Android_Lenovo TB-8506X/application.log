@@ -1,0 +1,16 @@
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:44:41.324 ServerManager:18 - Starting Appium Server!
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:34.432 ServerManager:18 - Starting Appium Server!
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.825 ServerManager:28 - Appium Server Started!
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.846 DriverManager:24 - initializing Appium driver
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.871 CapabilitiesManager:17 - Getting Capabilities
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.873 PropertyManager:15 - Loading Config Files
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.878 PropertyManager:15 - Loading Config Files
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.879 PropertyManager:15 - Loading Config Files
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.881 PropertyManager:15 - Loading Config Files
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:45:57.888 CapabilitiesManager:36 - Capabilities Set for Android!
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:46:27.545 VideoManager:31 - Videopath:Android_Lenovo TB-8506X\Videos\Login with Invalid username.mp4
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:46:35.691 VideoManager:31 - Videopath:Android_Lenovo TB-8506X\Videos\Login with Invalid password.mp4
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:46:46.112 VideoManager:31 - Videopath:Android_Lenovo TB-8506X\Videos\Login with valid username and password.mp4
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:46:49.206 VideoManager:31 - Videopath:Android_Lenovo TB-8506X\Videos\Verify the product information in Products page.mp4
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:47:05.557 VideoManager:31 - Videopath:Android_Lenovo TB-8506X\Videos\Verify product detailed information.mp4
+[Android_Lenovo TB-8506X INFO ] 2023-10-10 10:47:10.580 VideoManager:31 - Videopath:Android_Lenovo TB-8506X\Videos\Scroll down and check the price.mp4
